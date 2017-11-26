@@ -1,0 +1,6 @@
+[submodule "Bubba-3D"]
+	path = Bubba-3D
+	url = git@github.com:Bubbers/Bubba-3D
+[submodule "wind/Bubba-3D"]
+	path = wind/Bubba-3D
+	url = git@github.com:Bubbers/Bubba-3D
